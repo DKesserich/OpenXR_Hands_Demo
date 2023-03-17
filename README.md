@@ -1,5 +1,7 @@
 # OpenXR_Hands_Demo
 
+![](https://github.com/DKesserich/OpenXR_Hands_Demo/blob/main/gif/Hands.gif)
+
 A modified version of the Unreal OpenXR Template that uses LiveLink for finger tracking (requires a compatible VR headset and controllers)
 
 See the Content\Hand\OpenXR_Hand_AnimBP to see how I set up the animation blueprint for the hands.
